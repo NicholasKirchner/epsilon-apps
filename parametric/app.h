@@ -9,7 +9,7 @@
 #include "values/values_controller.h"
 #include "../shared/function_app.h"
 
-namespace Graph {
+namespace Parametric {
 
 class App : public Shared::FunctionApp {
 public:
